@@ -1,4 +1,3 @@
-/u/home/s/serghei/project/EC_survey/RepSeq_real/RepSeq_real_SRR1543964.fastq
 
 
 def global_viterbi(X, Y, S, g):  # do not change this line
